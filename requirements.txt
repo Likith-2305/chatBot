@@ -1,0 +1,7 @@
+openai
+langchain==0.0.118
+gpt_index==0.4.24
+psycopg2
+flask
+flask_cors
+flask_restful
